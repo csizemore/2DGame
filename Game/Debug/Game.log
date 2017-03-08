@@ -1,0 +1,46 @@
+﻿  Source.cpp
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(255): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(450): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(451): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(458): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(482): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(483): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(494): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(498): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(502): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(505): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(507): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(537): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(538): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(550): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(551): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(566): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(568): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(602): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(626): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(627): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(651): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(653): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(654): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(656): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(668): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(669): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(694): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(737): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(769): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(770): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(837): warning C4018: '<': signed/unsigned mismatch
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(838): warning C4018: '<': signed/unsigned mismatch
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(843): warning C4018: '<': signed/unsigned mismatch
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(848): warning C4018: '<': signed/unsigned mismatch
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(853): warning C4018: '<': signed/unsigned mismatch
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(871): warning C4018: '<': signed/unsigned mismatch
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(893): warning C4018: '<': signed/unsigned mismatch
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(894): warning C4018: '<': signed/unsigned mismatch
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(959): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(960): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(963): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(964): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\game\game\source.cpp(1015): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Game.vcxproj -> C:\Users\Crystal\Documents\Visual Studio 2015\Projects\Game\Debug\Game.exe
+  Game.vcxproj -> C:\Users\Crystal\Documents\Visual Studio 2015\Projects\Game\Debug\Game.pdb (Partial PDB)

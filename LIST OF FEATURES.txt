@@ -1,0 +1,14 @@
+List of features - 
+
+Rocket science
+Tilt
+Dense Atmosphere (Unsure if implemented correctly.)
+Afterburner
+Lucy in the Sky
+Great balls of fire
+Platforms
+Flipper (Left-side platform.)
+Landing strip (Right-side platform. Stopped by collision, not elastic force)
+Pokeball
+Flamethrower (Note: not transparent)
+Pokemon
